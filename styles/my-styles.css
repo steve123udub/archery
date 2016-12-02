@@ -8,3 +8,12 @@
   max-width: 400px;
   height: auto;
 }
+.vertical-align {
+  vertical-align: middle;
+}
+body {
+  font-family: 'Roboto', sans-serif;
+}
+nav {
+  font-size: 2rem;
+}
