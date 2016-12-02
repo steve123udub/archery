@@ -1,0 +1,10 @@
+/* My styles */
+
+.smaller-image-size {
+  max-width: 100px;
+  height: auto;
+}
+.medium-image-size {
+  max-width: 400px;
+  height: auto;
+}
