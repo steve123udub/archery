@@ -46,7 +46,6 @@
 }
 .span_5_of_6 {
   width: 83.06%;
-  background-color: aqua;
 }
 .span_4_of_6 {
   width: 66.13%;
@@ -59,7 +58,6 @@
 }
 .span_1_of_6 {
   width: 15.33%;
-  background-color: bisque;
 }
 
 /*  GO FULL WIDTH BELOW 480 PIXELS */
